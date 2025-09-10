@@ -8,8 +8,6 @@
   </a>
 </p>
 
-<br/>
-
 <div align="left">
 
 </div>
